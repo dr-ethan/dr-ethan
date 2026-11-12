@@ -1,5 +1,8 @@
-## Hi there 👋
+## Greetings!👋
 
+I'm Ethan, and this is my GitHub page!
+
+This readme is a work in progress!
 <!--
 **dr-ethan/dr-ethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
