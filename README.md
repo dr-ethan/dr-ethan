@@ -14,7 +14,7 @@ I've worked on a variety of projects, but my main areas of interest and speciali
 
 ### 🌱 I’m currently learning:
 
-- Git & Github usage
+- Git & Github usage & version control
 - Typescript 
 
 ### 💡 I'm currently interested in:
