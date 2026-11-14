@@ -1,19 +1,24 @@
 ## Greetings!👋
 
-I'm Ethan, and this is my GitHub page!
+I'm Ethan, and welcome to my GitHub page!
 
-This readme is a work in progress!
-<!--
-**dr-ethan/dr-ethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've worked on a variety of projects, but my main areas of interest and specialisation are:
+- Theoretical Physics Simulations - such as **[Machine Learning in Lattice Quantum Chromodynamics](https://github.com/dr-ethan/ML-for-LQC)** and **[multi-body orbital simulations](https://github.com/dr-ethan/hd-98800-circumbinary-planet-investigation)**
+- Task Automation – Automating business processes, integrating with Microsoft Office applications, working with SQL databases, and leveraging third-party APIs to interact with and streamline workflows across multiple platforms, such as **[Salesforce](https://www.salesforce.com/uk/)** and **[Tableau](https://www.tableau.com/en-gb)**
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Grid Vitality](https://github.com/dr-ethan/grid-vitality)** - a simple TTRPG battle map creator with a large amount of customisability for players and creators alike.
+- Currently browser-based, built using Vite, Typescript and React 
+- The repository will become public on the first stable version
+
+### 🌱 I’m currently learning:
+
+- Git & Github usage
+- Typescript 
+
+### 💡 I'm currently interested in:
+
+- Computational physics
+- Scientific modelling and simulation
+- Software development
